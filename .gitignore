@@ -1,5 +1,2 @@
-# binary
-.exe
-
 # PDF
-.pdf
+*.pdf
